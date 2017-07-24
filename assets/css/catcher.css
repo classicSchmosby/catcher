@@ -1,0 +1,26 @@
+html, body {
+	width:100%;
+	height:100%;
+	border:none;
+	padding:0;
+	margin:0;
+}
+#map {
+	width:70%;
+	height:90%;
+	float:left;
+	left:5%;
+	top:5%;
+}
+#controller {
+	width:20%;
+	height:80%;
+	float:right;
+	right:5%;
+	margin-top:5%;
+	border:1px solid black;
+}
+#upwards {
+	margin-top:20px;
+	margin-left:20px;
+}
